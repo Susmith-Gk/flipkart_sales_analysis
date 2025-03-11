@@ -9,7 +9,6 @@ This project analyzes Flipkart sales data to identify sales trends, customer beh
 - Feature Engineering
 
 ## 📂 Folder Structure:
-- `data/` → Raw & Processed datasets
-- `notebooks/` → Jupyter Notebooks for analysis
-- `scripts/` → Python scripts for modular tasks
-- `reports/` → Insights & findings
+- `Data/` → Raw & Processed datasets
+- `Notebooks/` → Jupyter Notebooks for analysis
+- `Reports/` → Insights & findings
